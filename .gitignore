@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .history
+explain.md
 # testing
 /coverage
 
